@@ -138,7 +138,7 @@ MIT — free to use, modify, and distribute.
 
 Built by **Dev** — Senior GenAI Engineer building production AI systems.
 
-Follow on LinkedIn for more AI engineering content → [Your LinkedIn URL]
+Follow on LinkedIn for more AI engineering content → www.linkedin.com/in/devendra-pitaliya
 
 ---
 
